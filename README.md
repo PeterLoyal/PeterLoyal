@@ -1,4 +1,9 @@
-### Hi there 👋
+### <h1 align="center">&emsp;Pedro Leal&emsp;</h1>
+
+<p align="center">
+    <img alt="auto type" src="https://readme-typing-svg.herokuapp.com/?lines=Front-End+Developer&font=Fira%20Code&color=%44AA99&center=true&width=280&height=50">
+</p>
+
 
 I am Pedro Leal, a **Junior Front-End Web Developer** from Elvas, Portugal, my background is in arts and design, but I recently made the switch to web development after completing an intensive course at Ironhack Lisbon.
 
