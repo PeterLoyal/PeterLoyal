@@ -7,6 +7,8 @@ During the course, I learned the core technologies used in web development, incl
 I love the challenge of creating digital solutions that combine design and functionality. I'm always looking for new ways to improve my skills and collaborate with other developers on interesting projects.
 
 If you want to learn more about my professional background and skills, feel free to check out my LinkedIn profile.
+
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroleal6/)
 
 
