@@ -5,7 +5,7 @@
 </p>
 
 
-I am Pedro Leal, a **Junior Front-End Web Developer** from Elvas, Portugal, my background is in arts and design, but I recently made the switch to web development after completing an intensive course at Ironhack Lisbon.
+I am Pedro Leal, a **Junior Web Developer** from Elvas, Portugal, my background is in arts and design, but I recently made the switch to web development after completing an intensive course at Ironhack Lisbon.
 
 During the course, I learned the core technologies used in web development, including HTML, CSS, JavaScript, and React. Since then, I've been continuously expanding my knowledge and skills through personal projects and contributions to open source projects.
 
